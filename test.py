@@ -1,0 +1,1 @@
+print("🔥 FireSafe Python environment is working!")
